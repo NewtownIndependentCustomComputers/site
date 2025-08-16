@@ -9,6 +9,8 @@ jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
+      - name: Update RubyGems
+        run: gem update --system
       - uses: actions/checkout@v2
       - uses:  helaili/jekyll-action@v2
         with:
