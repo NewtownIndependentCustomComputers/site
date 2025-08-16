@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Magna
-description: Lorem etiam nullam
+title: Workstations
+description: High-performance powerhouses
 image: assets/images/pic03.jpg
 ---
 
