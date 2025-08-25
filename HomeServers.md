@@ -15,3 +15,10 @@ Servers aren't always giant racks of computers with blinking lights and noisy fa
 - Store movies and music
 - Host a website
 - Mass storage for all machines on your network
+- Network-wide (DNS) adblock
+- Smart home orchestration
+- Host a VPN
+
+For instance, we have a main server with 12 TB of mass storage (both solid-state and traditional hard drives) that has 10 gigabit networking, acting as a file and media server for our network. It hosts a number of websites and services, available on the local network as well as over the internet with secure authentication. Our other servers provide off-site backups, VPNs, and redundancy for mission-critical services.
+
+[Get in touch](#contact) to discuss what you need from a home server.
