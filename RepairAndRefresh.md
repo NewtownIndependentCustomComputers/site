@@ -18,4 +18,4 @@ We can take a look at your computer and find out what needs to be done to keep y
   - Graphics card
 - Backing up important files
 
-[Get in touch](#contact) to discuss your needs and arrange a home visit.
+[Get in touch](#contact) to discuss your needs and arrange a **free home visit** if needed.
