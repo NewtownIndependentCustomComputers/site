@@ -20,9 +20,6 @@
             </header>
             <div class="content">
                 <p style="text-transform: uppercase;">{{page.description | default: site.description }}</p>
-                <ul class="actions">
-                    <li><a href="#content" class="button next scrolly">Learn more</a></li>
-                </ul>
             </div>
         </div>
     </section>
@@ -33,18 +30,12 @@
         <!-- Content -->
         <section id="content">
             <div class="inner">
-                <header class="major">
-                    <h2>What's in store?</h2>
-                </header>
                 <p>{{ content }}</p>
                 <ul class="actions">
-                    <li><a href="#contact" class="button next scrolly">Get in touch</a></li>
+                    <li><a href="/" class="button next">Home</a></li>
                 </ul>
             </div>
         </section>
-
-        <!-- Tiles -->
-        {% include tiles.html %}
 
     </div>
 
